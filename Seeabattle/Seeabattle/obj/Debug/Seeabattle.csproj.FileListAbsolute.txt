@@ -1,0 +1,30 @@
+C:\Visual Studio Programms\Windows Forms\Seeabattle\Seeabattle\bin\Debug\Seeabattle.exe.config
+C:\Visual Studio Programms\Windows Forms\Seeabattle\Seeabattle\bin\Debug\Seeabattle.exe
+C:\Visual Studio Programms\Windows Forms\Seeabattle\Seeabattle\bin\Debug\Seeabattle.pdb
+C:\Visual Studio Programms\Windows Forms\Seeabattle\Seeabattle\obj\Debug\Seeabattle.csprojResolveAssemblyReference.cache
+C:\Visual Studio Programms\Windows Forms\Seeabattle\Seeabattle\obj\Debug\Seeabattle.SeaBattle.resources
+C:\Visual Studio Programms\Windows Forms\Seeabattle\Seeabattle\obj\Debug\Seeabattle.Properties.Resources.resources
+C:\Visual Studio Programms\Windows Forms\Seeabattle\Seeabattle\obj\Debug\Seeabattle.csproj.GenerateResource.Cache
+C:\Visual Studio Programms\Windows Forms\Seeabattle\Seeabattle\obj\Debug\Seeabattle.exe
+C:\Visual Studio Programms\Windows Forms\Seeabattle\Seeabattle\obj\Debug\Seeabattle.pdb
+C:\Users\greedox\Desktop\Seeabattle\Seeabattle\bin\Debug\Seeabattle.exe.config
+C:\Users\greedox\Desktop\Seeabattle\Seeabattle\obj\Debug\Seeabattle.exe
+C:\Users\greedox\Desktop\Seeabattle\Seeabattle\obj\Debug\Seeabattle.pdb
+C:\Users\greedox\Desktop\Seeabattle\Seeabattle\obj\Debug\Seeabattle.csprojResolveAssemblyReference.cache
+C:\Users\greedox\Desktop\Seeabattle\Seeabattle\obj\Debug\Seeabattle.SeaBattle.resources
+C:\Users\greedox\Desktop\Seeabattle\Seeabattle\obj\Debug\Seeabattle.Properties.Resources.resources
+C:\Users\greedox\Desktop\Seeabattle\Seeabattle\obj\Debug\Seeabattle.csproj.GenerateResource.Cache
+C:\Users\greedox\Desktop\Seeabattle\Seeabattle\bin\Debug\Seeabattle.exe
+C:\Users\greedox\Desktop\Seeabattle\Seeabattle\bin\Debug\Seeabattle.pdb
+C:\Users\potap\Desktop\Морской Бой\Seeabattle\Seeabattle\bin\Debug\Seeabattle.exe.config
+C:\Users\potap\Desktop\Морской Бой\Seeabattle\Seeabattle\obj\Debug\Seeabattle.exe
+C:\Users\potap\Desktop\Морской Бой\Seeabattle\Seeabattle\obj\Debug\Seeabattle.pdb
+C:\Users\potap\Desktop\Морской Бой\Seeabattle\Seeabattle\bin\Debug\Seeabattle.exe
+C:\Users\potap\Desktop\Морской Бой\Seeabattle\Seeabattle\bin\Debug\Seeabattle.pdb
+C:\Users\potap\Desktop\Морской Бой\Seeabattle\Seeabattle\obj\Debug\Seeabattle.csprojResolveAssemblyReference.cache
+C:\Users\potap\Desktop\Морской Бой\Seeabattle\Seeabattle\obj\Debug\Seeabattle.SeaBattle.resources
+C:\Users\potap\Desktop\Морской Бой\Seeabattle\Seeabattle\obj\Debug\Seeabattle.Properties.Resources.resources
+C:\Users\potap\Desktop\Морской Бой\Seeabattle\Seeabattle\obj\Debug\Seeabattle.csproj.GenerateResource.Cache
+C:\Users\potap\Desktop\Морской\Seeabattle\Seeabattle\bin\Debug\Seeabattle.exe.config
+C:\Users\potap\Desktop\Морской\Seeabattle\Seeabattle\obj\Debug\Seeabattle.exe
+C:\Users\potap\Desktop\Морской\Seeabattle\Seeabattle\obj\Debug\Seeabattle.pdb
